@@ -2994,9 +2994,9 @@ vary@^1.1.2:
   version "1.63.0"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.messages@1.63.0/public/@types/vtex.messages#97cb0ea6df0bd2cc144f40ceb48b7fa6180e5033"
 
-"vtex.search-segment-graphql@http://searchsegment--biggy.myvtex.com/_v/public/typings/v1/vtex.search-segment-graphql@0.1.0+build1627508480/public":
+"vtex.search-segment-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-segment-graphql@0.1.0/public":
   version "0.0.0"
-  resolved "http://searchsegment--biggy.myvtex.com/_v/public/typings/v1/vtex.search-segment-graphql@0.1.0+build1627508480/public#44a1e99840ca25949419c1b0317bd94dff1d1457"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-segment-graphql@0.1.0/public#42d0622545ecef72fb09b7e4fff8c518f03e89eb"
 
 which-pm-runs@^1.0.0:
   version "1.0.0"
