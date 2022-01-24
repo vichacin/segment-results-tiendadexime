@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Change
+- Set number of workers.
+
 ## [0.1.2] - 2022-01-24
 
 
